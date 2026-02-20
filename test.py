@@ -8,3 +8,8 @@ def printNumber():
 
 print(printNumber())
 print("hello world")
+def printnumber():
+    sum = 1
+    for i in range(10):
+        sum = sum +i
+    return sum
